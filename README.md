@@ -126,6 +126,39 @@ Charts are saved inside the `charts/` folder.
 
 ### Top Players Analysis
 ![Top Players](charts/top_players.png)
+## Features
+
+- Team win analysis
+- Toss decision analysis
+- Venue analysis
+- Winning margin analysis
+- Top player analysis
+- Data visualization using charts
+
+---
+
+## Project Screenshots
+
+### Team Wins Analysis
+![Team Wins](charts/team_wins.png)
+
+### Toss Decision Analysis
+![Toss Decision](charts/toss_decision_pie.png)
+
+### Venue Analysis
+![Venue Analysis](charts/venue_analysis.png)
+
+### Winning Margin Histogram
+![Winning Margin](charts/winning_margin_histogram.png)
+
+### Top Players Analysis
+![Top Players](charts/top_players.png)
+
+---
+
+## Conclusion
+
+This project demonstrates beginner-to-intermediate level data analytics skills using Python, Pandas, and Matplotlib.
 
 ## Conclusion
 This project demonstrates beginner-to-intermediate level data analytics skills using real IPL match datasets.
