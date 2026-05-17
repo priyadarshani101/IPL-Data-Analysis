@@ -102,6 +102,30 @@ Charts are saved inside the `charts/` folder.
 - Analyze ball-by-ball IPL dataset
 
 ---
+## Project Screenshots
+
+### Team Wins Analysis
+![Team Wins](charts/team_wins.png)
+
+---
+
+### Toss Decision Analysis
+![Toss Decision](charts/toss_decision_pie.png)
+
+---
+
+### Venue Analysis
+![Venue Analysis](charts/venue_analysis.png)
+
+---
+
+### Winning Margin Histogram
+![Winning Margin](charts/winning_margin_histogram.png)
+
+---
+
+### Top Players Analysis
+![Top Players](charts/top_players.png)
 
 ## Conclusion
 This project demonstrates beginner-to-intermediate level data analytics skills using real IPL match datasets.
