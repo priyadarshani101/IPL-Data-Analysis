@@ -69,6 +69,38 @@ Charts are saved inside the `charts/` folder.
 - Data Cleaning
 - Insight Generation
 
+## Features
+- Team win analysis
+- Toss decision analysis
+- Venue analysis
+- Winning margin analysis
+- Player performance visualization
+
+---
+
+## Charts Generated
+- Team wins bar chart
+- Toss decision pie chart
+- Venue analysis chart
+- Winning margin histogram
+- Top players chart
+
+---
+
+## Conclusion
+- Gujarat Titans won the highest matches in IPL 2022
+- Toss decisions influenced match outcomes
+- Some venues showed higher winning margins
+- Data visualization helped identify trends clearly
+
+---
+
+## Future Improvements
+- Add Power BI dashboard
+- Add SQL analysis
+- Add machine learning prediction
+- Analyze ball-by-ball IPL dataset
+
 ---
 
 ## Conclusion
